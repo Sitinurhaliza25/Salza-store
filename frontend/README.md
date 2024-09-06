@@ -32,6 +32,7 @@ Sistem ini dirancang khusus untuk digunakan oleh admin dalam mengelola berbagai 
 2. Enkripsi data sensitif.
 
 # D. ERD
+![erd](https://github.com/user-attachments/assets/23f011a3-33a1-4d85-8f5a-d29a38e79427)
 
 # F. TECH STACK
 
