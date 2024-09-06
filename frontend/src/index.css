@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Add to your global styles (e.g., styles/globals.css) */
+@media (prefers-color-scheme: dark) {
+    .dark .bg-primary {
+      background-color: #040507; /* dark background color */
+    }
+    .dark .bg-gray-800 {
+      background-color: #2d3748; /* dark background color */
+    }
+    .dark .bg-gray-900 {
+      background-color: #1a202c; /* dark background color */
+    }
+    .dark .text-gray-200 {
+      color: #edf2f7; /* dark text color */
+    }
+    .dark .text-gray-300 {
+      color: #e2e8f0; /* dark text color */
+    }
+    .dark .border-gray-700 {
+      border-color: #4a5568; /* dark border color */
+    }
+  }
+  
